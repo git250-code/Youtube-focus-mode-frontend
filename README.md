@@ -40,4 +40,15 @@ youtube-focus-frontend/
 
 ## How to load in Chrome
 1. copy the repo
-git clone 
+```
+git clone https://github.com/git250-code/Youtube-focus-mode-frontend.git
+```
+
+2. In Chrome open chrome://extensions/.
+3. Enable Developer mode (top-right).Click Load unpacked and select the youtube-focus-frontend folder (the folder that contains manifest.json).
+4. Click the extension icon, paste a playlist URL, click Load Playlist, then click Watch to open a video tab.
+5. You can also go to youtube after turning on the extension and see if it is working (like side bars hidden , no recommendations)
+
+## License
+
+MIT License © 2025
